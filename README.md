@@ -101,3 +101,17 @@ php artisan optimize:clear
 ```bash
 php artisan storage:link
 ```
+
+```bash
+Superadmin /superadmin/login
+email: superadmin@urlshortner.com
+pass: superadmin123
+```
+
+```bash
+admin /admin/login
+```
+
+```bash
+members /member/login
+```
